@@ -41,6 +41,7 @@ There are two things you can do about this warning:
 
 ;; Customize UI
 (tool-bar-mode -1)
+(menu-bar-mode -1)
 (scroll-bar-mode -1)
 
 ;; IDo Mode
